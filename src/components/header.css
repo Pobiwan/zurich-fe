@@ -1,0 +1,14 @@
+.headerNavBar{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+    width: 80%;
+}
+
+.modal-button {
+    width: 80px;
+    margin-right: 10px;
+    margin-left: 10px;
+  }

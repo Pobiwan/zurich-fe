@@ -1,0 +1,8 @@
+.authlayoutcontainer{
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80vw;
+    height: 100vh;
+}

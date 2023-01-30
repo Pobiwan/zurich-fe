@@ -1,0 +1,12 @@
+.errorroute-container{
+
+}
+
+.errorroute-container .errorimg{
+    width: 200px;
+    aspect-ratio: 1.8;
+}
+
+.errorroute-container .errormessage{
+    font-size: 20px;
+}

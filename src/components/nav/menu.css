@@ -1,0 +1,11 @@
+.navmenu {
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+    height: 80%;
+    justify-content: space-around;
+    background-color: #1E90FF;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 100%;
+}

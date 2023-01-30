@@ -1,0 +1,17 @@
+.loginContainer {
+    width: 20%;
+    height: 320px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: url(../img/zurich.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 10px;   
+    border: solid 2px #2565AE;
+}
+
+.loginContainerHeader {
+    margin-bottom: 25px;
+}

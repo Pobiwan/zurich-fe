@@ -1,0 +1,27 @@
+.home-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    background-color: #1E90FF;
+    height: 50%;
+    width: 80%;
+    overflow-y: scroll;
+}
+
+.home-header{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Helvetica';
+}
+
+.userlist-container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 80%;
+  }
+  
+.userlist-container {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px 10px;
+  }

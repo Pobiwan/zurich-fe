@@ -1,0 +1,13 @@
+.user-container {
+    height: 100px;
+    display: flex;
+    border: 1px solid orange;
+  }
+
+.userDetail {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
